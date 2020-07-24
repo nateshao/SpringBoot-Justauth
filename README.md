@@ -1,2 +1,2 @@
 # SpringBoot-test
-SpringBoot整合其他
+SpringBoot整合Justauth，实现第三方登录
